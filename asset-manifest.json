@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/moody/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/moody/static/js/main.daf16712.chunk.js",
+    "main.js.map": "/moody/static/js/main.daf16712.chunk.js.map",
+    "runtime-main.js": "/moody/static/js/runtime-main.715571a0.js",
+    "runtime-main.js.map": "/moody/static/js/runtime-main.715571a0.js.map",
+    "static/js/2.cfe1b522.chunk.js": "/moody/static/js/2.cfe1b522.chunk.js",
+    "static/js/2.cfe1b522.chunk.js.map": "/moody/static/js/2.cfe1b522.chunk.js.map",
+    "static/js/3.b43fb001.chunk.js": "/moody/static/js/3.b43fb001.chunk.js",
+    "static/js/3.b43fb001.chunk.js.map": "/moody/static/js/3.b43fb001.chunk.js.map",
+    "index.html": "/moody/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/moody/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.cfe1b522.chunk.js.LICENSE.txt": "/moody/static/js/2.cfe1b522.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/moody/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.715571a0.js",
+    "static/js/2.cfe1b522.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.daf16712.chunk.js"
+  ]
+}
